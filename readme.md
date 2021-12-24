@@ -6,7 +6,7 @@
 ## 仓库结构
 
 - [知识卡片](./knowledge_cards/)
-- [新的体会](./thoughts/)
+- [心得体会](./thoughts/)
 
 ## 计算机知识
 
