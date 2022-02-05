@@ -19,13 +19,13 @@
 
 SOPR, The Spent Output Profit Ratio.
 
-- https://dataguide.cryptoquant.com/utxo-data-indicators/spent-output-profit-ratio-sopr
+- <https://dataguide.cryptoquant.com/utxo-data-indicators/spent-output-profit-ratio-sopr>
 
 ## [Whale Dumping](https://dataguide.cryptoquant.com/top-10-presets/whale-dumping)
 
 ## [BTC: Coinbase Premium Index](https://dataguide.cryptoquant.com/top-10-presets/whale-accumulation)
 
-It's the price difference between Coinbase's BTCUSD pair and Binance's BTCUSDT pair. 
+It's the price difference between Coinbase's BTCUSD pair and Binance's BTCUSDT pair.
 
 ## [BTC: Grayscale holdings / GBTC Premium](https://dataguide.cryptoquant.com/top-10-presets/whale-accumulation)
 
