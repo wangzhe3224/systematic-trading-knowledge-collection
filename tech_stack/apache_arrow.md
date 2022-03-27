@@ -49,6 +49,8 @@ date: 2022-03-27
 
 具体的规定参考官方文档：<https://arrow.apache.org/docs/format/Columnar.html>
 
+![物理内存类型](https://raw.githubusercontent.com/wangzhe3224/pic_repo/master/images/20220327173813.png)
+
 ### `arrow` 的实现
 
 规定了内存结构本身并不能做任何计算，这一步仅仅为不用语言的实现进行0成本交流提供了基础，开发人员
