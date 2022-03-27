@@ -1,12 +1,16 @@
-# Bitcoin Fundamentals
+---
+title: Bitcoin Fundamentals
+tags: Bitcoin
+categories: Crypto
+date: 2022-03-27
+---
 
-- [Bitcoin Fundamentals](#bitcoin-fundamentals)
-  - [网络健康](#网络健康)
-  - [买方、买方数据](#买方买方数据)
-  - [比特币定价](#比特币定价)
-    - [基于花费的指标](#基于花费的指标)
-    - [基于PnL的指标](#基于pnl的指标)
-  - [参考](#参考)
+- [网络健康](#网络健康)
+- [买方、买方数据](#买方买方数据)
+- [比特币定价](#比特币定价)
+  - [基于花费的指标](#基于花费的指标)
+  - [基于PnL的指标](#基于pnl的指标)
+- [参考](#参考)
 
 ## 网络健康
 
