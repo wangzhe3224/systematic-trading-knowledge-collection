@@ -7,6 +7,7 @@
 
 - [知识卡片](./knowledge_cards/)
 - [心得体会](./thoughts/)
+- [技术卡片](./tech_stack/)
 
 ## 计算机知识
 
