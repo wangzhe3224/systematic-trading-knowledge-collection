@@ -7,6 +7,7 @@ categories: Crypto
 - [2022-03-23 | 44900 USD](#2022-03-23--44900-usd)
 - [2022-04-23 | 39500 USD](#2022-04-23--39500-usd)
 - [2022-05-29 | 29050 USD](#2022-05-29--29050-usd)
+- [2022-06 | 20000 USD](#2022-06--20000-usd)
 
 ## 2022-03-23 | 44900 USD
 
@@ -27,3 +28,7 @@ categories: Crypto
 - [巴菲特旗下的 Nubank 持有比特币并开放交易](https://bitcoinmagazine.com/business/warren-buffett-backed-nubank-buys-bitcoin-adds-trading)
 - [比特币哈希率再在熊市创新高！](https://bitcoinmagazine.com/markets/record-bitcoin-mining-despite-bear-market)
 - [澳大利亚启动了两个比特币现货ETF](https://bitcoinmagazine.com/markets/australia-launches-bitcoin-etfs-as-market-crashes)
+
+## 2022-06 | 20000 USD
+
+[ARK Invest - Bitcoin Monthly](bitcoin_monthly/ARK-Invest_070122_Bitcoin-Monthly_June-22.pdf)
