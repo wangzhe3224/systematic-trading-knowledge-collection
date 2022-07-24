@@ -7,7 +7,8 @@ categories: Crypto
 - [2022-03-23 | 44900 USD](#2022-03-23--44900-usd)
 - [2022-04-23 | 39500 USD](#2022-04-23--39500-usd)
 - [2022-05-29 | 29050 USD](#2022-05-29--29050-usd)
-- [2022-06 | 20000 USD](#2022-06--20000-usd)
+- [2022-06-24 | 20000 USD](#2022-06-24--20000-usd)
+- [2022-07-24 | 22747 USD](#2022-07-24--22747-usd)
 
 ## 2022-03-23 | 44900 USD
 
@@ -29,6 +30,17 @@ categories: Crypto
 - [比特币哈希率再在熊市创新高！](https://bitcoinmagazine.com/markets/record-bitcoin-mining-despite-bear-market)
 - [澳大利亚启动了两个比特币现货ETF](https://bitcoinmagazine.com/markets/australia-launches-bitcoin-etfs-as-market-crashes)
 
-## 2022-06 | 20000 USD
+## 2022-06-24 | 20000 USD
 
 [ARK Invest - Bitcoin Monthly](bitcoin_monthly/ARK-Invest_070122_Bitcoin-Monthly_June-22.pdf)
+
+
+## 2022-07-24 | 22747 USD
+
+- [股票零售商 Robinhood 开放比特币支付](https://bitcoinmagazine.com/business/robinhood-enables-bitcoin-transfers)
+- [币安取消比特币交易费用](https://bitcoinmagazine.com/business/binance-removes-bitcoin-trading-fees)
+- [Qala 比特币开发人员营会举办](https://bitcoinmagazine.com/culture/qala-africa-for-bitcoin-development)
+- [Blockstream 在 BIP-340 取得进展](https://bitcoinmagazine.com/technical/blockstream-announces-progress-on-signature-aggregation)
+- [德国挂牌比特币现货 ETN 交易](https://bitcoinmagazine.com/markets/eqonex-launches-physically-backed-bitcoin-etn-in-germany)
+- [瑞士第五大银行，PostFinance 启动比特币交易计划](https://bitcoinmagazine.com/business/postfinance-set-to-launch-bitcoin-trading-by-2024)
+- [截止2022年，全世界供给存在约 8000 台比特币 ATM 机器](https://decrypt.co/32492/there-are-now-8000-bitcoin-atms-globally)
