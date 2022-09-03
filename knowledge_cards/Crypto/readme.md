@@ -9,6 +9,7 @@ categories: Crypto
 - [2022-05-29 | 29050 USD](#2022-05-29--29050-usd)
 - [2022-06-24 | 20000 USD](#2022-06-24--20000-usd)
 - [2022-07-24 | 22747 USD](#2022-07-24--22747-usd)
+- [2022-08-31 | 20023 USD](#2022-08-31--20023-usd)
 
 ## 2022-03-23 | 44900 USD
 
@@ -44,3 +45,11 @@ categories: Crypto
 - [德国挂牌比特币现货 ETN 交易](https://bitcoinmagazine.com/markets/eqonex-launches-physically-backed-bitcoin-etn-in-germany)
 - [瑞士第五大银行，PostFinance 启动比特币交易计划](https://bitcoinmagazine.com/business/postfinance-set-to-launch-bitcoin-trading-by-2024)
 - [截止2022年，全世界供给存在约 8000 台比特币 ATM 机器](https://decrypt.co/32492/there-are-now-8000-bitcoin-atms-globally)
+
+## 2022-08-31 | 20023 USD
+
+- [黑石基金通过 Coinbase 为机构用户提供数字资产接入业务](https://www.theblock.co/post/161450/blackrock-to-offer-institutional-clients-access-to-crypto)
+- [以太坊融合日期确定为 9 月](https://www.theblock.co/post/165477/ethereum-foundation-confirms-september-dates-for-the-merge)
+- [Michael Saylor 辞去 MicroStrategy CEO 职位，转身执行主席](https://www.theblock.co/post/165477/ethereum-foundation-confirms-september-dates-for-the-merge)
+- [黑石基金启动私人信托提供比特币现货风险敞口](https://www.theblock.co/post/162987/blackrock-launches-private-trust-offering-direct-bitcoin-exposure)
+
