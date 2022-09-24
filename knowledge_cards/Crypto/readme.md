@@ -10,6 +10,7 @@ categories: Crypto
 - [2022-06-24 | 20000 USD](#2022-06-24--20000-usd)
 - [2022-07-24 | 22747 USD](#2022-07-24--22747-usd)
 - [2022-08-31 | 20023 USD](#2022-08-31--20023-usd)
+- [2022-09-24 | 19075 USD](#2022-09-24--19075-usd)
 
 ## 2022-03-23 | 44900 USD
 
@@ -53,3 +54,11 @@ categories: Crypto
 - [Michael Saylor 辞去 MicroStrategy CEO 职位，转身执行主席](https://www.theblock.co/post/165477/ethereum-foundation-confirms-september-dates-for-the-merge)
 - [黑石基金启动私人信托提供比特币现货风险敞口](https://www.theblock.co/post/162987/blackrock-launches-private-trust-offering-direct-bitcoin-exposure)
 
+## 2022-09-24 | 19075 USD
+
+- [俄罗斯财政部通过一项使用比特币和数字资产进行跨国贸易的法案草稿](https://bitcoinmagazine.com/markets/russian-central-bank-and-ministry-of-finance-agree-on-bitcoin-crypto-bill)
+- [拜登发表禁止比特币挖矿的报告](https://bitcoinmagazine.com/legal/biden-administration-targets-bitcoin)
+- [法国银行巨头 Societe Generale 启动比特币基金服务](https://bitcoinmagazine.com/markets/french-bank-launches-bitcoin-fund-services)
+- [迪拜皇室注资支持阿联酋比特币支付网络](https://bitcoinmagazine.com/business/seed-group-partners-with-coincorner-to-facilitate-bitcoin-transactions-in-the-uae)
+- [科罗拉多州成为美国第一个接受比特币作为纳税金的州](https://bitcoinmagazine.com/legal/colorado-now-accepts-bitcoin-payments-for-taxes)
+- [纳斯达克开启机构用户比特币、数字资产保管业务](https://bitcoinmagazine.com/markets/nasdaq-to-launch-crypto-custody-services)
