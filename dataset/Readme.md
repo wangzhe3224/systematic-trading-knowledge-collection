@@ -9,6 +9,10 @@
 
 [FilingsDB: Financial Statement and Notes Data Sets from sec.gov](https://github.com/edgarminers/filingsdb)
 
+A full example of filling sectors: https://www.sec.gov/edgar/browse/?CIK=1004980&owner=exclude
+
+![20230203093744](https://raw.githubusercontent.com/wangzhe3224/pic_repo/master/images/20230203093744.png)
+
 ### Insider Trade Form 3, 4, 5
 
 [From-345](https://www.sec.gov/dera/data/form-345)
@@ -20,7 +24,6 @@ In general the insider trade has 2 day lag ( From 4 ). Form 4 must be filed with
 Here is an example: https://www.sec.gov/Archives/edgar/data/1004980/000089924323001605/xslF345X03/doc4.xml
 
 Here is a query: https://www.sec.gov/edgar/browse/?CIK=1004980&owner=exclude
-
 
 Snap at 2023-02-03:
 
