@@ -2,7 +2,6 @@
 
 ## Sec
 
-
 ### EDGAR
 
 [Download all companies periodic reports, filings and forms from EDGAR database](https://github.com/sec-edgar/sec-edgar)
@@ -28,3 +27,14 @@ Here is a query: https://www.sec.gov/edgar/browse/?CIK=1004980&owner=exclude
 Snap at 2023-02-03:
 
 ![20230203091636](https://raw.githubusercontent.com/wangzhe3224/pic_repo/master/images/20230203091636.png)
+
+## CBOE
+
+US Daily Data: https://www.cboe.com/us/equities/market_statistics/short_sale/?mkt=edgx
+
+Exchanges:
+
+- BZX, is almost four times bigger than the BYX.
+- BYX
+- EDGA, is a low cost exchange with a taker/maker pricing model.
+- EDGX, an exchange with a maker/taker pricing model offering high rebates for liquidity providers.
