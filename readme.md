@@ -5,6 +5,7 @@
 
 ## 仓库结构
 
+- [Alpha Pool](./alpha-pool/)
 - [知识卡片](./knowledge_cards/)
 - [心得体会](./thoughts/)
 - [技术卡片](./tech_stack/)
