@@ -27,6 +27,3 @@ Feel free to support me :) thanks.
 
 - [Patreon](https://www.patreon.com/funcoder777)
 - BTC: bc1qrjrffv7aaf5f4f6dydkt4yaukt4297vedd6w6p
-- 支付宝
-
-<img src="https://github.com/wangzhe3224/awesome-systematic-trading/blob/master/assets/IMG_0825.jpg" width="200" height="200" />
