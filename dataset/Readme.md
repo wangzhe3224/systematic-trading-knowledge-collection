@@ -38,3 +38,7 @@ Exchanges:
 - BYX
 - EDGA, is a low cost exchange with a taker/maker pricing model.
 - EDGX, an exchange with a maker/taker pricing model offering high rebates for liquidity providers.
+
+## Books
+
+- [The Book of Alternative Data](./assets/The%20Book%20of%20Alternative%20Data%20A%20Guide%20for%20Investors%20Traders%20and%20Risk%20Managers%20(Alexander%20Denev%20Saeed%20Amen)%20(z-lib.org).pdf)
